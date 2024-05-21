@@ -6,8 +6,8 @@ This project is an application that demonstrates how to use Spring Data JPA for 
 
 Before you begin, ensure you have met the following requirements:
 
-- Java Development Kit (JDK) 11 or higher
-- Gradle 6.8 or higher
+- Java Development Kit (JDK) 17 or higher
+- Gradle 7.5 or higher
 
 ## Getting Started
 
